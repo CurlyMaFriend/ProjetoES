@@ -1,0 +1,84 @@
+{
+  "cars": [
+    {
+      "id": 1,
+      "brand": "Renault",
+      "model": "Clio",
+      "color": "Red",
+      "price": 3500,
+      "VIN": "1HGBH41JXMN109185",
+      "reserved": false,
+      "image": "https://esproject-carsbucket.s3.amazonaws.com/reanult-clio-red.jpg"
+    },
+    {
+      "id": 2,
+      "brand": "Renault",
+      "model": "Clio",
+      "color": "White",
+      "price": 4500,
+      "VIN": "1HGBH41JXMN109186",
+      "reserved": true,
+      "image": "https://esproject-carsbucket.s3.amazonaws.com/reanult-clio-white.jpg"
+    },
+    {
+      "id": 3,
+      "brand": "Peugeot",
+      "model": "208",
+      "color": "Black",
+      "price": 3500,
+      "VIN": "1HGBH41JXMN109185",
+      "reserved": false,
+      "image": "https://www.peugeot208.com.br/ofertas/assets/ofertas_1.png"
+    },
+    {
+      "id": 4,
+      "brand": "Renault",
+      "model": "Megane",
+      "color": "Yellow",
+      "price": 5500,
+      "VIN": "1HGBH41JXMN109286",
+      "reserved": true,
+      "image": "https://motoreu.com/public/website/template1/upload/safe/bigw_4-r_5e8500b642ebc.webp"
+    }
+  ],
+  "vin": [
+    {
+      "id": 1,
+      "VIN": "1HGBH41JXMN109185"
+    },
+    {
+      "id": 2,
+      "VIN": "1HGBH41JXMN109186"
+    },
+    {
+      "id": 3,
+      "VIN": "1HGBH41JXMN109185"
+    },
+    {
+      "id": 4,
+      "VIN": "1HGBH41JXMN109286"
+    }
+  ],
+  "extras": [
+    {
+      "id": 1,
+      "VIN": "1HGBH41JXMN109185",
+      "plate": "31-54-wv"
+    },
+    {
+      "id": 2,
+      "VIN": "1HGBH41JXMN109186",
+      "plate": "13-45-wa"
+    },
+    {
+      "id": 3,
+      "VIN": "1HGBH41JXMN109185",
+      "plate": "23-33-tt"
+    },
+    {
+      "id": 4,
+      "VIN": "1HGBH41JXMN109286",
+      "plate": "89-67-er"
+    }
+  ]
+}
